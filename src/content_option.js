@@ -1,3 +1,8 @@
+import project1 from "../src/assets/images/project1.png";
+import project2 from "../src/assets/images/project2.png";
+import project3 from "../src/assets/images/project3.png";
+import project4 from "../src/assets/images/project4.png";
+
 const logotext = "HILMI";
 const meta = {
     title: "Hilmi Yahya",
@@ -75,63 +80,63 @@ const services = [
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
+        img: project1,
+        description: "Movie information website built with React and integrated with the TMDb API to display categorized movie details.",
+        link: "https://movie-database-hilmiyahya19.vercel.app/",
+    },
+    {
+        img: project2,
+        description: "COVID-19 monitoring website built with React to manage patient data in real-time.",
+        link: "https://hilmiyahya19-covid-app.vercel.app/",
+    },
+    {
+        img: project3,
+        description: "Movie website built with React, featuring TMDb API integration, an interactive chatbot, and CRUD functionality using Supabase.",
+        link: "https://sky-movie.vercel.app/",
+    },
+    {
+        img: project4,
+        description: "Donation website built with React, featuring a landing page, an admin dashboard, and data visualization.",
+        link: "https://pedulipintar.vercel.app/",
+    },
+    {
+        img: "https://picsum.photos/1920/1080?grayscale",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/800/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
+        img: "https://picsum.photos/1920/1080?grayscale",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
 
     {
-        img: "https://picsum.photos/400/600/?grayscale",
+        img: "https://picsum.photos/1920/1080?grayscale",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/300/?grayscale",
+        img: "https://picsum.photos/1920/1080?grayscale",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
+        img: "https://picsum.photos/1920/1080?grayscale",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/550/?grayscale",
+        img: "https://picsum.photos/1920/1080?grayscale",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
+        img: "https://picsum.photos/1920/1080?grayscale",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/700/?grayscale",
+        img: "https://picsum.photos/1920/1080?grayscale",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
