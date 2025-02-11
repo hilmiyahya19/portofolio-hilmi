@@ -26,6 +26,11 @@ const dataabout = {
 };
 const worktimeline = [
     {
+        jobtitle: "Student",
+        where: "Sekolah Tinggi Teknologi Terpadu Nurul Fikri",
+        date: "2021 - Present",
+    },
+    {
         jobtitle: "Certified Web Development Independent Study MSIB Batch 5",
         where: "Infinite Learning",
         date: "August 14, 2023 - December 31, 2023",
@@ -34,11 +39,6 @@ const worktimeline = [
         jobtitle: "Front-End Engineer With React JS MSIB Batch 6",
         where: "Alterra Academy",
         date: "February 16, 2024 - June 30, 2024",
-    },
-    {
-        jobtitle: "Student",
-        where: "Sekolah Tinggi Teknologi Terpadu Nurul Fikri",
-        date: "2021 - Present",
     },
 ];
 
